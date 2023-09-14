@@ -33,8 +33,27 @@ In this project, I conducted a comprehensive analysis of employee attrition with
 
 
 
+ ---
+Below are the links and screenshots of Tableau and Excel dashboards respectively:
 
+ **Tableau Dashboard:**
 
- 
+ **Link to Tableau public-**
+*[Here](https://public.tableau.com/views/HRAttritionAnalysis_16914113126680/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)*
+
+ *without filters*
+ ![Screenshot (60)](https://github.com/riyanksankhe/HR_Attrition_Analysis/assets/138203213/e5ebe56c-e710-4ecd-bd52-7c8685bdb71f)
+
+*with filters*
+![Screenshot (61)](https://github.com/riyanksankhe/HR_Attrition_Analysis/assets/138203213/9480fc9e-6bd5-4946-ad14-c515398bcbf1)
+
+---
+
+**Excel Dashboard:**
+
+**Link to Excel Dashboard-**
+*[Here](HR_Attrition_Analysis.xlsx)*
+
+*Screenshot of Excel Dashboard*
 ![Screenshot (56)](https://github.com/riyanksankhe/HR_Attrition_Analysis/assets/138203213/979ec6c8-157f-4bb6-9d8a-ea7085835452)
-![Screenshot (57)](https://github.com/riyanksankhe/HR_Attrition_Analysis/assets/138203213/9d5a8837-7271-464e-8ebb-bb18cf0ff10d)
+
