@@ -13,6 +13,24 @@ In this project, I comprehensively analysed employee attrition within the organi
 4. Data Optimization: Upload and manage HR data on MySQL for efficient data retrieval and analysis.
 5. Visual Data Exploration: Utilize advanced visualizations in Tableau to explore relationships between variables and uncover trends that may impact attrition.
 
+## Tools used:
+
+<p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.example.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/riyanksankhe/riyanksankhe/assets/138203213/768cd396-ca00-403b-8726-46858f12e026" alt="Microsoft Excel" width="40" height="40"/> 
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.example.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/riyanksankhe/riyanksankhe/assets/138203213/ed8ef1a1-ac1b-47ab-ba16-e1ff08b0eba5" alt="Tableau" width="40" height="40"/>  
+  </a>
+</p>
+
 ## **Project Steps:**
 
 **-Data Cleaning:** I cleaned the raw data using Excel, addressing errors, null values, and inconsistencies. This process ensured that the dataset was accurate and ready for analysis.
@@ -252,6 +270,50 @@ Similar Attrition Rates: The chart indicates relatively similar attrition rates 
 - Holistic Approach: In combination with other KPIs and analyses, such as attrition by department, years since last promotion, and marital status, this income-related metric aids in crafting a holistic attrition reduction strategy. It highlights the importance of considering not only financial aspects but also personal and professional factors contributing to attrition.
 
 *In conclusion, the KPI for the average monthly income of departed employees plays a crucial role in your HR Attrition Analysis project. It provides financial context to attrition trends, enabling HR and management to make informed decisions and implement strategies aimed at enhancing employee retention and overall organizational effectiveness.*
+
+ ---
+
+## Conclusion:
+
+The HR Attrition Analysis project was conducted to gain valuable insights into employee attrition trends within the organization. Leveraging a combination of data cleaning, analysis, visualization, and data optimization techniques, this project aimed to provide a comprehensive understanding of attrition factors and patterns.
+
+**Project Highlights:**
+
+- Data Cleaning and Preparation: The project commenced with the meticulous cleaning and preparation of HR data from two Excel files. This involved the removal of errors, handling of null values, and other essential data-cleaning processes.
+
+- Exploratory Data Analysis (EDA): Through extensive EDA, the project revealed critical insights about the workforce, including factors such as age distribution, job satisfaction, salary levels, and more.
+
+- Dashboard Creation: Two powerful dashboards were developed to provide a user-friendly interface for data exploration. The Excel dashboard featured key performance indicators (KPIs) such as average age, attrition rate, and salary analysis. The Tableau dashboard further enhanced data visualization with KPIs like total employees, average working years, and job role analysis.
+
+- MySQL Database Integration: Data was uploaded to a MySQL server, optimizing accessibility and retrieval for future analysis. This step ensured efficient data management and enhanced reporting capabilities.
+
+## Key Findings:
+
+The project identified that attrition rates were notably influenced by factors like years since the last promotion, job role, and monthly income. Employees who received promotions more recently exhibited lower attrition rates.
+
+Business travel and department were also significant determinants of attrition, with specific categories showing higher attrition rates.
+
+The average monthly income of departed employees was calculated at $25,915, indicating a potential correlation between income levels and attrition.
+
+Attrition rates by marital status revealed that married employees had the highest attrition rate, followed closely by divorced employees.
+
+## Recommendations:
+
+Based on the findings, HR departments should consider more frequent performance reviews and promotions to reduce attrition rates.
+
+Tailored strategies for different job roles and salary categories may be effective in managing attrition.
+
+Additional research could be conducted to understand the factors contributing to the higher attrition rates among married and divorced employees.
+
+## Future Work:
+
+For future iterations of this project, incorporating predictive analytics models could enable proactive attrition prediction, allowing HR departments to take preventative measures. Moreover, continuously updating and refining data sources and analysis techniques will ensure the project remains relevant and beneficial.
+
+## Open Source Contribution:
+
+To facilitate knowledge sharing and collaborative efforts, I plan to post this project on GitHub. This will serve as a valuable resource for reference and a platform for others to contribute their insights and enhancements to the project, fostering a community of HR analytics enthusiasts and professionals.
+
+In conclusion, the HR Attrition Analysis project provides a holistic view of attrition trends, offering actionable insights for HR departments to improve employee retention and enhance organizational performance, and it's shared on GitHub to encourage collaboration and learning within the broader community.
 
  ---
  
